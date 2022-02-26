@@ -1,7 +1,5 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+ABHISHEK SER+WA+BOT+REPO.;CREATED+BY+ABHISHEK+SER;THIS+IS+A+BGM+STICKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING+OUR+GIT)](https://git.io/typing-svg)
-
  </a>
 </p>
 <div align="center">
