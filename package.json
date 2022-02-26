@@ -1,14 +1,14 @@
 {
-  "name": "Rudhra-Bot",
+  "name": "ABHISHEK SER",
   "version": "1.0.0",
-  "description": "Rudhra whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./Rudhra/bot.js",
+  "description": "ABHISHEK SER whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./ABHISHEK SER/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrinceRudh/Rudhra.git"
+    "url": "git+https://github.com/BOSSMODZ/Rudhra"
   },
   "keywords": [
     "WhatsApp",
@@ -16,7 +16,7 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Prince Rudh / @phaticusthiccy",
+  "developer": "ABHISHEK SER / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/PrinceRudh/Rudhra/issues"
