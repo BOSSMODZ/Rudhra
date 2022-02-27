@@ -8,7 +8,7 @@
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/BOSSMODZ"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Rudhra"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -63,8 +63,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/BOSSMODZ/Rudhra
-$ cd BOSSMODZ
+$ git clone https://github.com/Prince-Rudh/Rudhra
+$ cd Prince-Rudh
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -73,8 +73,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/BOSSMODZ/Rudhra
-$ cd BOSSMODZ
+$ git clone https://github.com/Prince-Rudh/Rudhra
+$ cd Prince-Rudh
 $ chmod +x *
 $ npm i
 $ node qr.js
