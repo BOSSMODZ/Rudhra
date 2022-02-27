@@ -3,12 +3,12 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/6p3x1x6.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="Boss.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/PrinceRudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/BOSSMODZ"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -46,9 +46,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Prince-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BOSSMODZ/ABHISHEK SER-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Prince-Rudh/Rudhra)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOSSMODZ/Rudhra)
      </div>
 <br>
 <br >
@@ -63,8 +63,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/PrinceRudh/Rudhra
-$ cd Rudhra
+$ git clone https://github.com/BOSSMODZ/Rudhra
+$ cd BOSSMODZ
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -73,8 +73,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/PrinceRudh/Rudhra
-$ cd Rudhra
+$ git clone https://github.com/BOSSMODZ/Rudhra
+$ cd BOSSMODZ
 $ chmod +x *
 $ npm i
 $ node qr.js
